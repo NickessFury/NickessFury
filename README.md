@@ -2,6 +2,7 @@
 - I am interested in Data Science, Machine learning and AI and in using them so solve problems in various sectors.
 - 🌱 Currently, I am finetuning my skills as I have been away for a while.
 - 👯 Looking to collaborate on DS projects.
+- 📫 arogundaderahmah@gmail.com
 
 <!--
 **NickessFury/NickessFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
