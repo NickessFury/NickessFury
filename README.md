@@ -1,4 +1,4 @@
-- Hi there! 👋 I am #Rahmat (the 't' is silent 😄).
+- Hi there! 👋 I am Rahmat (the 't' is silent 😄).
 - I am interested in Data Science, Machine learning and AI and in using them so solve problems in various sectors.
 - 🌱 Currently, I am finetuning my skills as I have been away for a while.
 - 👯 Looking to collaborate on DS projects.
